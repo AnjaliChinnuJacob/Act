@@ -2,7 +2,6 @@
 
 	int main() {
 		int grades[2][5];
-		float average;
 		int i;
 		int j;
 
@@ -19,6 +18,7 @@
 		grades[1][4] = 87;
 
 		for (i = 0; i < 2; i++) {
+			float average;
 			average = 0;
 			
 			for (j = 0; j < 5; j++) {
