@@ -6,7 +6,7 @@
 		int i;
 		int j;
 
-		grades[0][0] = 80;
+		grades[0][0] = 0;
 		grades[0][1] = 70;
 		grades[0][2] = 65;
 		grades[0][3] = 89;
